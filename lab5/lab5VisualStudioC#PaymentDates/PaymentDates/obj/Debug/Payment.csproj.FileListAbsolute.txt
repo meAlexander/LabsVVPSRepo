@@ -1,0 +1,7 @@
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\obj\Debug\Payment.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\bin\Debug\PaymentDates.exe.config
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\bin\Debug\PaymentDates.exe
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\bin\Debug\PaymentDates.pdb
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\obj\Debug\PaymentDates.exe
+C:\Users\Alexander\Desktop\PaymentDates\PaymentDates\obj\Debug\PaymentDates.pdb

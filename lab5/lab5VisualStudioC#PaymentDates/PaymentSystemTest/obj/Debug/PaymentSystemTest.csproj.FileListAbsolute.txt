@@ -1,0 +1,17 @@
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\obj\Debug\PaymentSystemTest.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\obj\Debug\PaymentSystemTest.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\PaymentSystemTest.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\PaymentSystemTest.pdb
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\PaymentDates.exe
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\PaymentDates.pdb
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\PaymentDates.exe.config
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\obj\Debug\PaymentSystemTest.csproj.CopyComplete
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\obj\Debug\PaymentSystemTest.dll
+C:\Users\Alexander\Desktop\PaymentDates\PaymentSystemTest\obj\Debug\PaymentSystemTest.pdb
